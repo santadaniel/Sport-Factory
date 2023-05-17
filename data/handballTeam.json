@@ -1,0 +1,32 @@
+{
+  "teams": [
+    {
+      "name": "Test4",
+      "players": [
+        { "age": 19, "name": "Reka" },
+        { "age": 18, "name": "Kira" },
+        { "age": 17, "name": "Flora" }
+      ],
+      "supportMoney": 1000
+    },
+    {
+      "name": "Test5",
+      "players": [
+        { "age": 23, "name": "Kincso" },
+        { "age": 17, "name": "Rebeka" },
+        { "age": 20, "name": "Fanni" }
+      ],
+      "supportMoney": 10000
+    },
+    {
+      "name": "Test6",
+      "players": [
+        { "age": 23, "name": "Bettike" },
+        { "age": 18, "name": "Katalin" },
+        { "age": 37, "name": "Zsofi" }
+      ],
+      "supportMoney": 123456789
+    },
+    { "name": "TestHandball", "players": [], "supportMoney": 0 }
+  ]
+}
